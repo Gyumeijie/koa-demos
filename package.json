@@ -19,7 +19,10 @@
     "url": "https://github.com/Gyumeijie/koa-demos/issues"
   },
   "dependencies": {
-    "koa": "^2.2.0"
+    "ejs": "^2.5.8",
+    "koa": "^2.2.0",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.1.4"
   },
   "homepage": "https://github.com/Gyumeijie/koa-demos#readme",
   "devDependencies": {
